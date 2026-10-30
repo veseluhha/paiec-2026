@@ -1,0 +1,5 @@
+judge/scores.parquet is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+
+It contains zero-shot difficulty ratings of items from aims-foundations/measurement-db
+(revision 54074453da7b9911be0f48e4c560be547bc84d21, CC BY-SA), produced with
+google/gemma-4-31B-it (Apache-2.0). Attribution: the measurement-db authors (Stanford AIMS).
